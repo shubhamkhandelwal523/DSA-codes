@@ -1,2 +1,2 @@
 # DSA-codes
-# Sorting codes
+Sorting codes
